@@ -142,7 +142,10 @@ header span{
     width: 50px;   
 }
 #logo-banner{
-    max-width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    /*max-width: 530px;*/
+    max-width: 100%;
 }
 
 .img-lang{
