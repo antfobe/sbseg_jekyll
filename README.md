@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/antfobe/sbseg_jekyll.svg?branch=master)](https://travis-ci.org/antfobe/sbseg_jekyll)
+
 ---
 title: SBSeg page
 layout: default
