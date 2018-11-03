@@ -2,4 +2,7 @@
 set -e # halt script on error
 
 bundle exec jekyll build
+
+# htmlproofer sees a bunch of stuff that will be receiving incremental fixes,
+# disabled for now
 ##bundle exec htmlproofer ./_site --disable-external
