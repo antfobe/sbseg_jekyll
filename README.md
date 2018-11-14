@@ -1,9 +1,11 @@
+[![Build Status](https://travis-ci.org/antfobe/sbseg_jekyll.svg?branch=master)](https://travis-ci.org/antfobe/sbseg_jekyll)
+
 ---
 title: SBSeg page
 layout: default
 ---
 
-# {{ page.title }}
+<h1>SBSeg 2019 site, in jekyll</h1>
 
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
