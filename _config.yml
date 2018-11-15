@@ -10,7 +10,7 @@
 
 # Server settings
 port: 4000
-host: 192.168.15.21
+host: localhost
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
